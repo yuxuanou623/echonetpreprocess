@@ -11,20 +11,22 @@ This repository contains Python scripts designed for generating dataframes, imag
 ```bash
 python dataframe.py
 
-images.py
+### images.py
 
-Purpose: Creates images based on data analysis or simulation results. Usage:
-
+**Purpose:** Creates images based on data analysis or simulation results. 
+**Usage:**
+```bash
 python images.py
 
-masks.py
+### masks.py
 
-Purpose: Generates masks with a pixel value of 255, used in image processing tasks. Usage:
-
+**Purpose:** Generates masks with a pixel value of 255, used in image processing tasks. Usage:
+**Usage:**
+```bash
 python masks.py
 
-save_closed_2.py
-
-Purpose: Post-processes masks to modify features such as closing gaps and saving them in a specified format. Usage:
-
+###  save_closed_2.py
+**Purpose:** Post-processes masks to modify features such as closing gaps and saving them in a specified format. Usage:
+**Usage:**
+```bash
 python save_closed_2.py
